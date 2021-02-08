@@ -205,7 +205,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/api-serverless/dev/1612808352263-2021-02-08T18:19:12.263Z/api-serverless.zip"
+                "S3Key": "serverless/api-serverless/dev/1612808727110-2021-02-08T18:25:27.110Z/api-serverless.zip"
               },
               "Handler": "src/handler.create",
               "Runtime": "nodejs12.x",
@@ -230,7 +230,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/api-serverless/dev/1612808352263-2021-02-08T18:19:12.263Z/api-serverless.zip"
+                "S3Key": "serverless/api-serverless/dev/1612808727110-2021-02-08T18:25:27.110Z/api-serverless.zip"
               },
               "Handler": "src/handler.get",
               "Runtime": "nodejs12.x",
@@ -395,7 +395,7 @@
               "MethodResponses": []
             }
           },
-          "ApiGatewayDeployment1612808346821": {
+          "ApiGatewayDeployment1612808721646": {
             "Type": "AWS::ApiGateway::Deployment",
             "Properties": {
               "RestApiId": {
@@ -721,7 +721,7 @@
     "artifact": "C:\\Desenvolvimento\\API_Serveless\\.serverless\\api-serverless.zip"
   },
   "package": {
-    "artifactDirectoryName": "serverless/api-serverless/dev/1612808352263-2021-02-08T18:19:12.263Z",
+    "artifactDirectoryName": "serverless/api-serverless/dev/1612808727110-2021-02-08T18:25:27.110Z",
     "artifact": "api-serverless.zip"
   }
 }
